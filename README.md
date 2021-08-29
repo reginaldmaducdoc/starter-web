@@ -8,3 +8,6 @@ Sample website with plenty of files for demos
 
 #Hello
 It mee reginald 
+
+### Copyright
+Git.Training.2021
