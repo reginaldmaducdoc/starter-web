@@ -9,6 +9,8 @@
 
     <name>
 	Reginald Maducdoc
+	
+	All to your training!!!
 
 # TECHNOLOGY COLOPHON
 
