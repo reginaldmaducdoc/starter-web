@@ -7,7 +7,7 @@ This repository is for showing how Git and GitHub work
 Sample website with plenty of files for demos
 
 #Hello
-It mee reginald 
+It mee reginald  maducdoc
 
 ### Copyright
 Git.Training.2021
