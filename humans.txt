@@ -8,6 +8,7 @@
 # THANKS
 
     <name>
+	Reginald Maducdoc
 
 # TECHNOLOGY COLOPHON
 
