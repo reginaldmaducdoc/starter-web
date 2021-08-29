@@ -13,4 +13,4 @@ It mee reginald  maducdoc
 This ia am=n instruction to contribute this git.training repositiry
 
 ### Copyright
-Git.Training.2021
+Git.Training.2021All right reserved.
